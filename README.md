@@ -1,4 +1,11 @@
-# Overview
+--------------------------------------
+# :bell: Note
+
+This repository is provided as-is for reference purposes only. It is not actively maintained or supported.
+
+--------------------------------------
+
+## Overview
 
 The code in this folder provides an example for creating a Layer Identity Token using an HttpServlet.
 
